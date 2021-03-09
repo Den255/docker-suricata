@@ -1,0 +1,13 @@
+version: '3'
+services:
+  suricata:
+    image: jasonish/suricata:latest
+    volumes:
+      - ./data/logs:/var/log/suricata
+      # - ./data/etc:/etc/suricata
+      # - ./data/lib:/var/lib/suricata
+    network_mode: host
+    cap_add:
+      - "net_admin"
+      - "sys_nice"
+    entrypoint: "./docker-entrypoint.sh -i wlp3s0"

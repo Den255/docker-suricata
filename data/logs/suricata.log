@@ -1,0 +1,44 @@
+22/1/2021 -- 09:08:56 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+22/1/2021 -- 09:08:56 - <Info> - CPUs/cores online: 4
+22/1/2021 -- 09:08:56 - <Info> - Found an MTU of 1500 for 'wlp3s0'
+22/1/2021 -- 09:08:56 - <Info> - Found an MTU of 1500 for 'wlp3s0'
+22/1/2021 -- 09:08:56 - <Info> - dropped the caps for main thread
+22/1/2021 -- 09:08:56 - <Info> - fast output device (regular) initialized: fast.log
+22/1/2021 -- 09:08:56 - <Info> - eve-log output device (regular) initialized: eve.json
+22/1/2021 -- 09:08:56 - <Info> - stats output device (regular) initialized: stats.log
+22/1/2021 -- 09:08:56 - <Info> - Running in live mode, activating unix socket
+22/1/2021 -- 09:09:02 - <Info> - 1 rule files processed. 21016 rules successfully loaded, 0 rules failed
+22/1/2021 -- 09:09:02 - <Info> - Threshold config parsed: 0 rule(s) found
+22/1/2021 -- 09:09:02 - <Info> - 21019 signatures processed. 1269 are IP-only rules, 3814 are inspecting packet payload, 15706 inspect application layer, 104 are decoder event only
+22/1/2021 -- 09:09:28 - <Info> - Going to use 4 thread(s)
+22/1/2021 -- 09:09:28 - <Info> - Running in live mode, activating unix socket
+22/1/2021 -- 09:09:28 - <Info> - Using unix socket file '/var/run/suricata/suricata-command.socket'
+22/1/2021 -- 09:09:28 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+22/1/2021 -- 09:09:28 - <Info> - All AFP capture threads are running.
+22/1/2021 -- 10:02:23 - <Notice> - Signal Received.  Stopping engine.
+22/1/2021 -- 10:02:24 - <Info> - time elapsed 3176.063s
+22/1/2021 -- 10:02:24 - <Info> - Alerts: 9
+22/1/2021 -- 10:02:24 - <Info> - cleaning up signature grouping structure... complete
+22/1/2021 -- 10:02:24 - <Notice> - Stats for 'wlp3s0':  pkts: 86578, drop: 0 (0.00%), invalid chksum: 0
+22/1/2021 -- 10:20:16 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+22/1/2021 -- 10:20:16 - <Info> - CPUs/cores online: 4
+22/1/2021 -- 10:20:16 - <Info> - Found an MTU of 1500 for 'wlp3s0'
+22/1/2021 -- 10:20:16 - <Info> - Found an MTU of 1500 for 'wlp3s0'
+22/1/2021 -- 10:20:16 - <Info> - dropped the caps for main thread
+22/1/2021 -- 10:20:16 - <Info> - fast output device (regular) initialized: fast.log
+22/1/2021 -- 10:20:16 - <Info> - eve-log output device (regular) initialized: eve.json
+22/1/2021 -- 10:20:16 - <Info> - stats output device (regular) initialized: stats.log
+22/1/2021 -- 10:20:16 - <Info> - Running in live mode, activating unix socket
+22/1/2021 -- 10:20:22 - <Info> - 1 rule files processed. 21016 rules successfully loaded, 0 rules failed
+22/1/2021 -- 10:20:22 - <Info> - Threshold config parsed: 0 rule(s) found
+22/1/2021 -- 10:20:23 - <Info> - 21019 signatures processed. 1269 are IP-only rules, 3814 are inspecting packet payload, 15706 inspect application layer, 104 are decoder event only
+22/1/2021 -- 10:20:48 - <Info> - Going to use 4 thread(s)
+22/1/2021 -- 10:20:48 - <Info> - Running in live mode, activating unix socket
+22/1/2021 -- 10:20:48 - <Info> - Using unix socket file '/var/run/suricata/suricata-command.socket'
+22/1/2021 -- 10:20:48 - <Notice> - all 4 packet processing threads, 4 management threads initialized, engine started.
+22/1/2021 -- 10:20:48 - <Info> - All AFP capture threads are running.
+22/1/2021 -- 10:45:39 - <Notice> - Signal Received.  Stopping engine.
+22/1/2021 -- 10:45:39 - <Info> - time elapsed 1491.295s
+22/1/2021 -- 10:45:39 - <Info> - Alerts: 6
+22/1/2021 -- 10:45:39 - <Info> - cleaning up signature grouping structure... complete
+22/1/2021 -- 10:45:39 - <Notice> - Stats for 'wlp3s0':  pkts: 18098, drop: 0 (0.00%), invalid chksum: 0

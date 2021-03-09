@@ -1,0 +1,15 @@
+01/22/2021-09:09:51.694575  [**] [1:2022973:1] ET POLICY Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+01/22/2021-09:43:07.614975  [**] [1:2522320:4276] ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 321 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 193.106.31.2:443 -> 192.168.1.113:34188
+01/22/2021-09:50:00.208981  [**] [1:2221018:1] SURICATA HTTP request buffer too long [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:59364 -> 192.168.1.113:81
+01/22/2021-09:50:07.364727  [**] [1:2221018:1] SURICATA HTTP request buffer too long [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:59366 -> 192.168.1.113:81
+01/22/2021-09:50:14.638405  [**] [1:2221042:1] SURICATA HTTP Request line incomplete [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:59368 -> 192.168.1.113:81
+01/22/2021-09:50:14.641027  [**] [1:2221018:1] SURICATA HTTP request buffer too long [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:59368 -> 192.168.1.113:81
+01/22/2021-09:50:32.969625  [**] [1:2221042:1] SURICATA HTTP Request line incomplete [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:59372 -> 192.168.1.113:81
+01/22/2021-09:55:24.706956  [**] [1:2210042:2] SURICATA STREAM TIMEWAIT ACK with wrong seq [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.113:57118 -> 178.250.2.146:443
+01/22/2021-09:55:36.870514  [**] [1:2210042:2] SURICATA STREAM TIMEWAIT ACK with wrong seq [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.113:48846 -> 184.31.84.150:443
+01/22/2021-10:31:56.555396  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:42534 -> 192.168.1.113:81
+01/22/2021-10:31:56.563192  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:42536 -> 192.168.1.113:81
+01/22/2021-10:33:24.825396  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:42638 -> 192.168.1.113:81
+01/22/2021-10:33:24.837186  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:42640 -> 192.168.1.113:81
+01/22/2021-10:33:31.584427  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:42658 -> 192.168.1.113:81
+01/22/2021-10:33:31.597538  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.110:42660 -> 192.168.1.113:81
